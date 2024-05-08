@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+  background-color: rgb(128, 203, 178);
+}
+
+h2 {
+  color: rgb(55, 142, 204);
+  background-color: rgb(158, 212, 87);
+}
+
+p {
+  background-color: blue;
+  color: white;
+}
+
+a {
+text-decoration: none;
+}
+
+img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+button {
+ color: aquamarine;
+ background-color: rgb(186, 29, 198);
+}
